@@ -1,0 +1,1 @@
+export const UPI_key = "https://64a992708b9afaf4844adab1.mockapi.io/books/"
